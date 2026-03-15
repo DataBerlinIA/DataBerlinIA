@@ -12,7 +12,7 @@
 * 💻 Construyo **sistemas empresariales robustos** y los potencio con **Inteligencia Artificial**.
 * 🧠 Combino mi experiencia en arquitecturas complejas (Odoo, C#, .NET) con modelos de Machine Learning (Python) para transformar problemas técnicos en soluciones que escalan y generan impacto real.
 * 🏫 Egresado de Ingeniería en Sistemas de Cómputo por la Universidad del Sur.
-* 🌐 Mi Portafolio Web Oficial: **[REEMPLAZA ESTO POR TU LINK DE VERCEL]**
+* 🌐 Mi Portafolio Web Oficial: https://portfolio-data-science-phi.vercel.app/
 
 ---
 
