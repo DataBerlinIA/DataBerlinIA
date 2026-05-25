@@ -50,10 +50,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataBerlinIA&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFCC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBerlinIA&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DataBerlinIA&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFCC" height="180" alt="Berlin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBerlinIA&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC" height="180" alt="Berlin's Top Languages" />
+</p>
 
 ---
 
