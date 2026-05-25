@@ -6,15 +6,14 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 
-* [cite_start]🧠 I specialize in designing and deploying **Autonomous AI Agents** and intelligent **Agentic Workflows** using generative AI tools.
-* [cite_start]💻 I architect modern web applications from scratch, deploying high-performance frontends via **Vercel** and scalable serverless backends with **Supabase & PostgreSQL**.
+* 🧠 I specialize in designing and deploying **Autonomous AI Agents** and intelligent **Agentic Workflows** using generative AI tools.
+* 💻 I architect modern web applications from scratch, deploying high-performance frontends via **Vercel** and scalable serverless backends with **Supabase & PostgreSQL**.
 * 🤖 I leverage **Google AI Studio** (Gemini Spark / Omni) to inject cutting-edge cognitive capabilities into production-ready software solutions.
-* [cite_start]📊 Deep background in **Data Science & Business Intelligence**, combining Python (Pandas, Polars), Advanced Power BI (DAX Expert), and Looker Studio to build robust predictive pipelines.
-* [cite_start]🛠️ Experienced in extending core enterprise infrastructures with **Odoo ERP (OWL, XML)**.
-* [cite_start]🌐 **My Official Web Portfolio:** [portfolio-data-science-phi.vercel.app](https://portfolio-data-science-phi.vercel.app/) 
+* 📊 Deep background in **Data Science & Business Intelligence**, combining Python (Pandas, Polars), Advanced Power BI (DAX Expert), and Looker Studio to build robust predictive pipelines.
+* 🛠️ Experienced in extending core enterprise infrastructures with **Odoo ERP (OWL, XML)**.
+* 🌐 **My Official Web Portfolio:** [portfolio-data-science-phi.vercel.app](https://portfolio-data-science-phi.vercel.app/)
 
 ---
 
@@ -50,10 +49,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DataBerlinIA&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFCC" height="180" alt="Berlin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBerlinIA&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC" height="180" alt="Berlin's Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataBerlinIA&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFCC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBerlinIA&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFCC" />
+</div>
 
 ---
 
